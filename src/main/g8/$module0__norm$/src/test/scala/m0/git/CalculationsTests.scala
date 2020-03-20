@@ -1,3 +1,5 @@
+package m0.git
+
 import org.scalatest.{FunSuite, Matchers}
 
 class CalculationsTests extends FunSuite with Matchers {
