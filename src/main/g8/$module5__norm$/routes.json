@@ -1,0 +1,3 @@
+{
+  "/:id/classes\\?date=:date": "/classes?gym_id=:id&start_date_like=^:date"
+}
