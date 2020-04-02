@@ -1,5 +1,5 @@
 
-#[Milestone 2] Exercise 1 - Basic polymorphism
+# [Milestone 2] Exercise 1 - Basic polymorphism
 
 **Objective**
 

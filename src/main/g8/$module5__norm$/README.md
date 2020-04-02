@@ -1,4 +1,4 @@
-#[Milestone 5] GymBot
+# [Milestone 5] GymBot
 
 ## Consulting Gym classes over a Telegram Bot
 
