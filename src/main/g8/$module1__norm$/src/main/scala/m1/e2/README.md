@@ -1,4 +1,4 @@
-#[Milestone 1] Exercise 2 - Insert and search for numbers in a binary tree
+# [Milestone 1] Exercise 2 - Insert and search for numbers in a binary tree
 
 When we need to represent sorted data, an array does not make a good data structure.
 

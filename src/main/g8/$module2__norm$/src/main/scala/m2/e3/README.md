@@ -1,4 +1,4 @@
-# Exercise 3 - Type Bounds and Errors
+# [Milestone 2] Exercise 3 - Type Bounds and Errors
 
 We're going to make a simple service for managing contacts.
 

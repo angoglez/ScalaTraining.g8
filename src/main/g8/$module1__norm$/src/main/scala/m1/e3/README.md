@@ -1,4 +1,4 @@
-#[Milestone 1] Exercise 3 - Crypto Square
+# [Milestone 1] Exercise 3 - Crypto Square
 
 **Objective**
 

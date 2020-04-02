@@ -1,4 +1,4 @@
-#[Milestone 2] Exercise 2 - Explicit implicits
+# [Milestone 2] Exercise 2 - Explicit implicits
 
 **Objective**
 
